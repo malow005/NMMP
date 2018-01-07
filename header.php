@@ -55,7 +55,7 @@
 					color:  #666666;
 				}.muted:link{
 					color:  #666666;
-				}img{max-width:100%}
+				}*{max-width:100%}
 			</style>
 			<script type="text/javascript">
 				$(document).ready(function(){
