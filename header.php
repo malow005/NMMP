@@ -24,7 +24,6 @@
     	<!--<link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">-->
 		 <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
 		<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
-		<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 			<style type="text/css">
 				a:hover{
 					text-decoration: none;
