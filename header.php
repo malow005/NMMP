@@ -47,15 +47,19 @@
 					color:  #666666;
 				}.next > a:visited{
 					color:  #666666;
-				}.muted > a:link{
-					color:  #666666;
 				}.previous > a:link{
 					color:  #666666;
 				}.next > a:link{
 					color:  #666666;
 				}.muted:link{
 					color:  #666666;
-				}*{max-width:100%}
+				}*{
+					max-width:100%
+				}.pagination > li >a:link{
+					color: #666666;
+				}.pagination > li >a:visited{
+					color: #666666;
+				}
 			</style>
 			<script type="text/javascript">
 				$(document).ready(function(){
