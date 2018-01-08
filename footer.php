@@ -12,6 +12,18 @@
 
 
 
+<script type="text/javascript">
+        $(document).ready(function(){
+            $(".page-navigator").addClass("pagination");
+            $(".pagination").removeClass("page-navigator");
+            $(".pagination").wrap(document.createElement("div"));
+            $(".pagination").parent().addClass("text-center");
+            $(".avatar").addClass("img-circle");
+            $("ol").css("list-style","none");
+            $(".comment-parent").after("<hr>");
+        });
+    </script>
+
 
 
      
